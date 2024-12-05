@@ -3,6 +3,9 @@
 ## Description
 The **Clinical Trials Management Database** project focuses on designing, creating, and managing a relational database to handle clinical trial data using SQL. This project demonstrates core database development skills, including schema design, data manipulation, and query execution. This repository contains a comprehensive project report detailing the design and implementation of the relational database, as well as the SQL scripts for the same.
 
+You can read the full project report for detailed information:
+https://github.com/Sheethal-c-j/Clinical-Trial-Database-Design-and-Implementation/blob/main/Sheethal_Jayaram_%20Clinical%20Trials%20Database%20Project.pdf
+
 ## Features
 - **Database Creation**: Comprehensive schema design to accommodate trial, participant, and analysis data.
 - **Data Manipulation**: Efficient data insertion, updates, and deletion using SQL commands.
