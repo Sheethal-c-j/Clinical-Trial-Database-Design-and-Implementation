@@ -30,14 +30,14 @@ This project serves as a hands-on demonstration of essential database management
 
 
 ## Key SQL Concepts Demonstrated:
-**Database Design**
+- **Database Design**
 - Creating tables with appropriate constraints (primary keys, foreign keys, and unique constraints).
 - Normalizing data to avoid redundancy and maintain consistency.
-**Data Manipulation**:
+- **Data Manipulation**:
 Efficiently inserting, updating, and deleting records.
-**Querying Data**:
+- **Querying Data**:
 Writing SELECT statements with JOINs, GROUP BY, HAVING, and aggregate functions.
 Using subqueries and common table expressions (CTEs) for complex operations.
-**Performance Optimization**:
+- **Performance Optimization**:
 Index creation to improve query performance.
 Implementation of triggers and stored procedures for automation and validation.
